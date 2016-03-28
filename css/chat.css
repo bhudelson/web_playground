@@ -10,7 +10,7 @@
 	overflow: hidden;
 	border: 0px solid #36383a;
 	border-width: 50px 15px;
-	color: #474c57;
+	color: #fff;
 	border-radius: 20px;
 	font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -63,7 +63,7 @@
 	display: inline-block;
 	font-size: 14px;
 	max-width: 350px;
-	background: #fff;
+	background: #333;
 	padding: 8px 14px;
 	border-radius: 18px;
 	min-width: 0;
@@ -87,7 +87,7 @@
 }
 
 .chat-message-self .chat-message-bubble,
-.chat-message-effect .chat-message-bubble { 
+.chat-message-effect .chat-message-bubble {
 	background: #32a8e6;
 	color: #fff;
 	text-align: left;
